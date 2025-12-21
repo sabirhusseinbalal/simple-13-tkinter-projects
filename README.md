@@ -1,4 +1,4 @@
-# 13 Tkinter Projects by Sabir
+# 13 Tkinter Projects
 
 Welcome to my repository! Here you will find 13 small but cool Python projects built using **Tkinter**, the standard Python interface for creating graphical user interfaces (GUIs). These projects cover a range of useful tools and fun applications that I've developed with ❤️.
 
@@ -45,7 +45,7 @@ Welcome to my repository! Here you will find 13 small but cool Python projects b
 ## How to Run the Projects:
 1. Clone the repository using the command:
    ```bash
-   git clone https://github.com/Sabirhussainbalal/13-tkinter-projects.git
+   git clone https://github.com/Sabirhusseinbalal/simple-13-tkinter-projects.git
    ```
 
 
@@ -68,7 +68,3 @@ pip install -r requirements.txt
 ## Contributions:
 Feel free to fork this repository, make improvements, and create pull requests. I'd love to see how you expand on these projects!
 
-## Contact:
-- Created by **Sabir**  
-- GitHub: [Sabirhussainbalal](https://github.com/Sabirhussainbalal)  
-- Made with ❤️
