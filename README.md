@@ -3,43 +3,43 @@
 Welcome to my repository! Here you will find 13 small but cool Python projects built using **Tkinter**, the standard Python interface for creating graphical user interfaces (GUIs). These projects cover a range of useful tools and fun applications that I've developed with ❤️.
 
 ## Projects List:
-1. **Email Validation**  
+1. **[Email Validation](1_email_validation)**  
    A tool to validate email addresses using regular expressions.
    
-2. **QR Code Generator**  
+2. **[QR Code Generator](2_qrcode)**  
    Generates QR codes from any text or URL.
    
-3. **Video to MP3 Converter**  
+3. **[Video to MP3 Converter](3_converter)**  
    Converts video files to MP3 audio format.
    
-4. **Typing Speed Calculator**  
+4. **[Typing Speed Calculator](4_speed_calculator)**  
    A tool to measure your typing speed in words per minute (WPM).
    
-5. **Google Translator**  
+5. **[Google Translator](5_google_translater)**  
    Translates text between multiple languages using the Google Translate API.
    
-6. **Digital Clock**  
+6. **[Digital Clock](6_digital_clock)**  
    A simple digital clock that shows the current time.
    
-7. **Handwriting**  
+7. **[Handwriting](7_handwriter)**  
    Converts input text into a handwritten style and generates an image of the handwritten text.
    
-8. **Internet Speed Test**  
+8. **[Internet Speed Test](8_internet_speed)**  
    Tests the speed of your internet connection.
    
-9. **Site Blocker/Unblocker**  
+9. **[Site Blocker/Unblocker](9_blocking_sites)**  
    A Python tool to block and unblock websites to help improve productivity.
    
-10. **Shutdown App**  
+10. **[Shutdown App](10_shutdown_app)**  
    Schedules a system shutdown or restart.
    
-11. **Set Notification**  
+11. **[Set Notification](11_set_notification)**  
    Lets you set reminders and notifications for tasks.
    
-12. **Weather App**  
+12. **[Weather App](12_weather_app)**  
    Displays the current weather for any location using the OpenWeather API.
    
-13. **User Details**  
+13. **[User Details](13_user_nu_details)**  
     Allows you to validate and retrieve user details like carrier, location, and time zone from a phone number.
 
 ## How to Run the Projects:
