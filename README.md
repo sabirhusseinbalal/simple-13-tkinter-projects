@@ -65,6 +65,5 @@ You can install any necessary dependencies using pip:
 pip install -r requirements.txt
 ```
 
-## Contributions:
-Feel free to fork this repository, make improvements, and create pull requests. I'd love to see how you expand on these projects!
+
 
